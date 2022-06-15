@@ -1,0 +1,26 @@
+[
+  {
+    "package": "auth0",
+    "oncran": true
+  },
+  {
+    "package": "bltm",
+    "oncran": true
+  },
+  {
+    "package": "chess",
+    "oncran": true
+  },
+  {
+    "package": "scryr",
+    "oncran": true
+  },
+  {
+    "package": "shinyhttr",
+    "oncran": true
+  },
+  {
+    "package": "stockfish",
+    "oncran": true
+  }
+]
