@@ -1,5 +1,13 @@
 [
   {
+    "package": "auth0",
+    "oncran": true
+  },
+  {
+    "package": "bltm",
+    "oncran": true
+  },
+  {
     "package": "chess",
     "oncran": true
   },
@@ -8,19 +16,11 @@
     "oncran": true
   },
   {
-    "package": "stockfish",
-    "oncran": true
-  },
-  {
     "package": "shinyhttr",
     "oncran": true
   },
   {
-    "package": "auth0",
-    "oncran": true
-  },
-  {
-    "package": "bltm",
+    "package": "stockfish",
     "oncran": true
   }
 ]
