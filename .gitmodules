@@ -1,35 +1,22 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "auth0"]
 	path = auth0
 	url = https://github.com/curso-r/auth0
-	shallow = true
-	registered = true
 [submodule "bltm"]
 	path = bltm
 	url = https://github.com/curso-r/bltm
-	shallow = true
-	registered = true
 [submodule "chess"]
 	path = chess
 	url = https://github.com/curso-r/chess
-	shallow = true
-	registered = true
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/curso-r/scryr
-	shallow = true
-	registered = true
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/curso-r/shinyhttr
-	shallow = true
-	registered = true
 [submodule "stockfish"]
 	path = stockfish
 	url = https://github.com/curso-r/stockfish
-	shallow = true
-	registered = true
