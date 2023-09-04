@@ -17,6 +17,3 @@
 [submodule "shinyhttr"]
 	path = shinyhttr
 	url = https://github.com/curso-r/shinyhttr
-[submodule "stockfish"]
-	path = stockfish
-	url = https://github.com/curso-r/stockfish
