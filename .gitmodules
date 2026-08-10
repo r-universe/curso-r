@@ -11,6 +11,3 @@
 [submodule "scryr"]
 	path = scryr
 	url = https://github.com/curso-r/scryr
-[submodule "shinyhttr"]
-	path = shinyhttr
-	url = https://github.com/curso-r/shinyhttr
